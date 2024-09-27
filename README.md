@@ -1,2 +1,5 @@
 # Page
 
+```
+// Some code
+```
